@@ -1,4 +1,4 @@
 # Prog_periode3
 
-![Platformer](platformer1.gif)
+![Platformer](gifs/Platformer1.gif)
 
